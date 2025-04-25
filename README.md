@@ -184,6 +184,7 @@ project/
 ├── embeddings_batches/
 ├── faiss_index_bge_m3.index
 ├── philly_chunks.parquet
+├── philly_restaurants.csv
 ├── philly_restaurants_cleaned.parquet
 ├── philly_reviews_sampled.csv
 ├── philly_tips_sampled.csv
