@@ -181,7 +181,6 @@ index = faiss.read_index("faiss_index_bge_m3.index")
 project/
 ├── BT5153 Project Yelp.ipynb
 ├── chunk_embeddings.npy
-├── embeddings_batches/
 ├── faiss_index_bge_m3.index
 ├── philly_chunks.parquet
 ├── philly_restaurants.csv
@@ -192,7 +191,7 @@ project/
 ├── philly_restaurants_map.html
 └── README.md
 ```
-
+Due to file size limitations in GitHub, chunk_embeddings.npy and faiss_index_bge_m3.index could not be uploaded. These two files have to be regenerated in Colab prior to running the RAG.
 ---
 
 ## 📋 License & Attribution
